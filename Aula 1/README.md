@@ -26,7 +26,6 @@ Para quem já tem um rating de 1200 no CodeForces ou superior e/ou pega TEP:
  - Assista aulas de conteudos avançados (links abaixo)
  - Usar um plano de estudos já montado: https://goo.gl/unDETI
  - Usar o site A2OJ: https://a2oj.com
- - 
 
 Links de conteudos interessantes:
  - MaratonIME: https://www.youtube.com/user/BCCIMEUSP/videos
