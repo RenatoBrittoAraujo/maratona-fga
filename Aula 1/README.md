@@ -19,7 +19,7 @@ Para quem já fez PPC:
  - Esse seria o momento ideal para você ler o competitive programming 3
  - Resolva algumas questões no UVa
 
-Para quem já tem um rating de 1200 no CodeForces ou superior e/ou pega TEP:
+Para quem já tem um rating de 1300 no CodeForces ou superior e/ou pega TEP:
  - Procurar resolver mais questões
  - Considere treinar para o Google Code Jam
  - Responder questões do nacional brasileiro
