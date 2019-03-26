@@ -30,7 +30,8 @@ Para quem já tem um rating de 1200 no CodeForces ou superior e/ou pega TEP:
 Links de conteudos interessantes:
  - MaratonIME: https://www.youtube.com/user/BCCIMEUSP/videos
  - Brazilian ICPC Summer Camp: https://www.youtube.com/channel/UCraCE6iWUcFCJSp-vmO1D3A/playlists
- - O repositório TEP cheio de conteúdos interessantes: https://github.com/edomjr/TEP
+ - O repositório TEP cheio de conteúdos interessantes: https://github.com/edsomjr/TEP
  - GeeksForGeeks: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
  - CP-Algorithms: https://cp-algorithms.com
+ - MaratonUSP: https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA
  - Pato: https://meusanimais.com.br/wp-content/uploads/2018/02/pato-em-casa-1.jpg
