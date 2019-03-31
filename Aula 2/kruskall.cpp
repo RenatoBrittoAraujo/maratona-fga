@@ -6,7 +6,9 @@ using namespace std;
 // Na maneira mais humana de falar, imagina um grafo
 // Se você precisa encontrar a minimo de arestas que conectam um grafo de
 // forma a soma das arestas seja minima
-// O algoritmo de kruskall faz isso pra você com complexiadade O(E), E = arestas (edges)
+// O algoritmo de kruskall faz isso pra você com complexiadade O(E * log(V)),
+// E = arestas (edges), V = vertices. ->E porque você itera por toda lista de 
+// E arestas e ->log(V) porque essa é complexidade amorizada do DSU
 
 const int N = 1e5 + 10;
 
