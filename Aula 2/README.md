@@ -11,3 +11,5 @@ Treine:
 - Kruskall: https://www.urionlinejudge.com.br/judge/pt/problems/view/1152
 
 Façam mais exercícios!
+
+Leia mais sobre o modulo 1e9 + 7: https://www.geeksforgeeks.org/modulo-1097-1000000007/
