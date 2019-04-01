@@ -12,4 +12,10 @@ Treine:
 
 Façam mais exercícios!
 
+Leia mais sobre grafos no repositório TEP (Edson): https://github.com/edsomjr/TEP/tree/master/Grafos
+
+Leia mais sobre grafos no repositório TEP (Matheus Faria): https://github.com/MatheusFaria/TEP/tree/master/Grafos
+
+Leia mais sobre grafos no Geeks2Geeks: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+
 Leia mais sobre o modulo 1e9 + 7: https://www.geeksforgeeks.org/modulo-1097-1000000007/
