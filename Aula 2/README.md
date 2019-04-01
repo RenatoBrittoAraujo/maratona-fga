@@ -4,6 +4,9 @@ Aprendemos:
 - Exponenciação rápida (elevar um número a outro dentro de um módulo)
 - Disjoint set union (unir elementos de grupos disjuntos)
 - Algoritmo de Kruskall (formar grafos conexos com a menor soma de valores para arestas)
+- Básico de Grafos
+- Maneiras de representar um grafo
+- BFS e DFS
 
 Treine:
 - Exponenciação rápida: https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=310
