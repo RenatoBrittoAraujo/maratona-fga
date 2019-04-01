@@ -12,6 +12,8 @@ Treine:
 
 Façam mais exercícios!
 
+Leia sobre as propriedades da operação modulo ("dever de casa"): https://en.wikipedia.org/wiki/Modular_arithmetic#Properties
+
 Leia mais sobre grafos no repositório TEP (Edson): https://github.com/edsomjr/TEP/tree/master/Grafos
 
 Leia mais sobre grafos no repositório TEP (Matheus Faria): https://github.com/MatheusFaria/TEP/tree/master/Grafos
