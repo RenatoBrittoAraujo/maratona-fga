@@ -10,6 +10,7 @@ Reuni um conjunto de links e passos para te ajudar a começar:
 Aprender C++:
 - Video: https://youtu.be/Rub-JsjMhWY
 - Curso gratuito: https://www.udemy.com/cplusplus-intermediario/
+
 Aprender sobre a STL do C++:
 - Repositório: https://github.com/edsomjr/TEP/blob/master/Introducao/STL.md
 - Playlist: https://www.youtube.com/watch?v=Vc1RyqWFbiA&list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb&index=1
