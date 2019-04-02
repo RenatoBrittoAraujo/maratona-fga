@@ -11,6 +11,7 @@ Aprendemos:
 Treine:
 - Exponenciação rápida: https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=310
 - Disjoint set union: https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1099
+- DFS/Floodfill: https://www.urionlinejudge.com.br/judge/pt/problems/view/1905
 - Kruskall: https://www.urionlinejudge.com.br/judge/pt/problems/view/1152
 
 Façam mais exercícios!
