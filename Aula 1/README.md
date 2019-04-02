@@ -38,6 +38,7 @@ Para quem já tem um rating de 1300 no CodeForces ou superior e/ou pega TEP:
  - Usar o site A2OJ: https://a2oj.com
 
 Links de conteudos interessantes:
+ - Repositório macacario: https://github.com/splucs/Competitive-Programming
  - MaratonIME: https://www.youtube.com/user/BCCIMEUSP/videos
  - Brazilian ICPC Summer Camp: https://www.youtube.com/channel/UCraCE6iWUcFCJSp-vmO1D3A/playlists
  - O repositório TEP cheio de conteúdos interessantes: https://github.com/edsomjr/TEP
