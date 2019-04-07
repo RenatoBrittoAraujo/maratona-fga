@@ -8,6 +8,16 @@ Aprenda sobre a STL por esse link (do grande Matheus Faria):
 
 https://github.com/edsomjr/TEP/blob/master/Introducao/STL.md
 
+Sobre a importância da maratona de programação:
+- [TODO: futuro post no meu blog]
+
+Dicas que considero muito relevantes:
+- Não começe a digitar a solução de cara, pense antes
+- Não pense na solução antes de ler o cabeçalho completamente e entender o problema sem ambiguidades
+- Quanto mais questões você responde, melhor você fica
+- Tente responder questões num nivel de dificuldade que você demore de 20 minutos até 2 horas para achar a resposta, e se não conseguir mesmo assim, leia o editorial/codigo dos outros até entender totalmente.
+- Leia o livro 'Competitive Programming 3' e 'Competitive Programmer Handbook'
+
 Para iniciantes:
  - Crie uma conta no URI Online Judge
  - Tente resolver 300 questões para Iniciantes ou Ad Hoc
