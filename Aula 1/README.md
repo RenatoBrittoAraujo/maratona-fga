@@ -1,47 +1,11 @@
 # Aula 1
 
-Aprenda o basico de c++:
+Aprendemos:
+- Complexidade de algoritmos (bem básica)
+- Soma prefixa unidimensional/bidimensional (reduzir a soma de elementos numa array de O(n) ou O(n²) para O(1))
+- Busca binária (apontar ausencia ou presença de elemento em array em O(log(N)/encontrar ponto de inflexão de função degrau para aproxima algum resultado em ponto flutuante)
+- Relevância da maratona de programação (estará disponível no futuro em um texto estruturado no meu blog)
 
-https://youtu.be/Rub-JsjMhWY
-
-Aprenda sobre a STL por esse link (do grande Matheus Faria):
-
-https://github.com/edsomjr/TEP/blob/master/Introducao/STL.md
-
-Sobre a importância da maratona de programação:
-- [TODO: futuro post no meu blog]
-
-Dicas que considero muito relevantes:
-- Não começe a digitar a solução de cara, pense antes
-- Não pense na solução antes de ler o cabeçalho completamente e entender o problema sem ambiguidades
-- Quanto mais questões você responde, melhor você fica
-- Tente responder questões num nivel de dificuldade que você demore de 20 minutos até 2 horas para achar a resposta, e se não conseguir mesmo assim, leia o editorial/codigo dos outros até entender totalmente.
-- Leia o livro 'Competitive Programming 3' e 'Competitive Programmer Handbook'
-
-Para iniciantes:
- - Crie uma conta no URI Online Judge
- - Tente resolver 300 questões para Iniciantes ou Ad Hoc
- - Pegue a matéria PPC semestre que vem
-
-Para quem já fez PPC:
- - Crie uma conta no CodeForces e começe a participar de contests
- - Pegue a matéria TEP
- - Esse seria o momento ideal para você ler o competitive programming 3
- - Resolva algumas questões no UVa
-
-Para quem já tem um rating de 1300 no CodeForces ou superior e/ou pega TEP:
- - Procurar resolver mais questões
- - Considere treinar para o Google Code Jam
- - Responder questões do nacional brasileiro
- - Assista aulas de conteudos avançados (links abaixo)
- - Usar um plano de estudos já montado: https://goo.gl/unDETI
- - Usar o site A2OJ: https://a2oj.com
-
-Links de conteudos interessantes:
- - MaratonIME: https://www.youtube.com/user/BCCIMEUSP/videos
- - Brazilian ICPC Summer Camp: https://www.youtube.com/channel/UCraCE6iWUcFCJSp-vmO1D3A/playlists
- - O repositório TEP cheio de conteúdos interessantes: https://github.com/edsomjr/TEP
- - GeeksForGeeks: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
- - CP-Algorithms: https://cp-algorithms.com
- - MaratonUSP: https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA
- - Pato: https://meusanimais.com.br/wp-content/uploads/2018/02/pato-em-casa-1.jpg
+Treine:
+- Soma prefixa: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44
+- Busca binária (problema das tortas): https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1636
