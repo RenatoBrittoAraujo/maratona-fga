@@ -3,6 +3,11 @@ Repositório de códigos passados e futuros sobre maratona. Bons estudos.
 
 Debugados e comentados com todo o carinho para vocês :D
 
+Para nortear futuras decisões sobre esse repositório, vamos estabelecer objetivos em ordem de prioridade:
+- Primeiramente o objetivo principal é aumentar o nível de programação da FGA
+- Ensinar conteúdos relevantes para a maratona
+- Montar um time para maratonas de programação da FGA
+
 Como as aulas foram dadas sequencialmente, se você não entender o conteudo de uma aula em específico, leia o conteudo das aulas passadas. Estão todos guardados de forma sequêncial.
 
 Reuni um conjunto de links e passos para te ajudar a começar:
