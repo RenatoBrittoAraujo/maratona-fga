@@ -2,4 +2,4 @@
 
 Link para o evento: https://codeforces.com/group/btcK4I5D5f/contest/243447
 
-Todas as soluções são estão dando AC
+Todas as soluções deram AC
