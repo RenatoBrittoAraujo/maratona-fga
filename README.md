@@ -24,14 +24,12 @@ Para iniciantes:
 - Crie uma conta no URI Online Judge
 - Tente resolver 300 questões para Iniciantes ou Ad Hoc
 - Pegue a matéria PPC semestre que vem
-- Para quem já fez PPC:
 
 Para quem já fez PPC/tem alguma experiência com contest:
 - Crie uma conta no CodeForces e começe a participar de contests
 - Pegue a matéria TEP
 - Esse seria o momento ideal para você ler o competitive programming 3
 - Resolva algumas questões no UVa
-- Para quem já tem um rating de 1300 no CodeForces ou superior e/ou pega TEP:
 
 Para quem já participou ativamente de um maratona/fez PPC:
 - Procurar resolver mais questões
