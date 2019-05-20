@@ -38,6 +38,9 @@ Para quem já participou ativamente de um maratona/fez PPC:
 - Assista aulas de conteudos avançados (links abaixo)
 - Usar um plano de estudos já montado: https://goo.gl/unDETI
 - Usar o site A2OJ: https://a2oj.com
+- Usar AtCoder: https://atcoder.jp/ (japones, tem um ping meio ruim)
+- Usar TopCoder: https://www.topcoder.com/
+- Usar Kattis: https://open.kattis.com/
 
 Links de conteudos interessantes:
 - Repositório do Notebook da FGA: https://gitlab.com/arthurkomatsu/Cheatsheet_Maratona
