@@ -40,6 +40,7 @@ Para quem já participou ativamente de um maratona/fez PPC:
 - Usar o site A2OJ: https://a2oj.com
 
 Links de conteudos interessantes:
+- Repositório do Notebook da FGA: https://gitlab.com/arthurkomatsu/Cheatsheet_Maratona
 - Repositório do Gabriel Pessoa: https://github.com/gabrielpessoa1/Biblioteca-Maratona
 - Repositório UnBallon (darcy): https://github.com/UnBalloon/Programacao-Competitiva
 - Repositório macacario: https://github.com/splucs/Competitive-Programming
