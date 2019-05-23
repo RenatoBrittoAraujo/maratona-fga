@@ -52,5 +52,6 @@ Links de conteudos interessantes:
 - O repositório TEP cheio de conteúdos interessantes: https://github.com/edsomjr/TEP
 - GeeksForGeeks: https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 - CP-Algorithms: https://cp-algorithms.com
+- Tutoriais do TopCoder: https://www.topcoder.com/community/competitive-programming/tutorials
 - MaratonUSP: https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA
 - Pato: https://meusanimais.com.br/wp-content/uploads/2018/02/pato-em-casa-1.jpg
